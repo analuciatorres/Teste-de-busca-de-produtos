@@ -31,3 +31,5 @@ Então('valido que o produto foi adicionado ao carrinho com a mensagem Adicionad
     assert_selector("h1[class='a-size-medium a-text-bold']", visible: true, text: "Adicionado ao carrinho")
     sleep(10)
 end
+
+##teste github
