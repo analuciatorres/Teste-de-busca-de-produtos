@@ -32,4 +32,3 @@ Então('valido que o produto foi adicionado ao carrinho com a mensagem Adicionad
     sleep(10)
 end
 
-##teste github
